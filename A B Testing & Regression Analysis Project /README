@@ -1,20 +1,20 @@
-### **Sales Performance & Customer Behavior Analysis**  
+Sales Performance & Customer Behavior Analysis
 
-#### **Objective:**  
+Objective
 Analyze sales performance, customer purchasing behavior, and operational efficiency using Excel, Power Query, and Power BI dashboards.  
 
-#### **Key Insights:**  
-- **Total Revenue:** $313,783.00, with an **average order value of $3,302.98**.  
-- **Peak Sales Month:** November, indicating strong seasonality.  
-- **Top Products:** Assortment Sets, E-Sets, and Quicksnack Packs.  
-- **Major Sales Occasions:** Diwali and Raksha Bandhan.  
-- **Top Cities:** Hyderabad, Amritsar, and Bhimavaram.  
-- **Best Sales Days:** Fridays and Sundays.  
+Key Insights
+- Total Revenue:** $313,783.00, with an **average order value of $3,302.98.
+- Peak Sales Month:** November, indicating strong seasonality.  
+- Top Products:** Assortment Sets, E-Sets, and Quicksnack Packs.  
+- Major Sales Occasions:** Diwali and Raksha Bandhan.  
+- Top Cities:** Hyderabad, Amritsar, and Bhimavaram.  
+- Best Sales Days:** Fridays and Sundays.  
 
-#### **Technologies Used:**  
+ Technologies Used  
 - Excel, Power Query, Power BI 
 
-#### **Recommendations:**  
+ Recommendations  
 - Optimize **delivery times** to improve customer satisfaction.  
 - Focus on **festival-based marketing** for increased revenue.  
 - Implement **product bundling & upselling** strategies.  
